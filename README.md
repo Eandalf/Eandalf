@@ -1,4 +1,6 @@
-### Hi there 👋
+# Eandalf
+
+## Hi there 👋
 
 <!--
 **Eandalf/Eandalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile views](https://komarev.com/ghpvc/?username=Eandalf)
 
 ![Eandalf's github stats](https://github-readme-stats.vercel.app/api?username=Eandalf&count_private=true&show_icons=true)
 
