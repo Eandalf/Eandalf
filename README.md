@@ -105,6 +105,14 @@ This project aimed to build a programming game to help teenagers and advanced le
 
 For more details: [Programming Game](./docs/projects/programming-game/README.md).
 
+### Pixel Inspector
+
+Dec. 2020 ~ Dec. 2020
+
+The project aimed to read the RGB or RGBA pixel values of the images locally. GUI was built with Tkinter. Matplotlib was used to load images. Numpy was used to manipulate arrays of pixel values. After setting up this project, we no longer needed to upload pictures to online services to inspect pixel values, which was commonly used in scientific research.
+
+[Repo](../pixel-inspector)
+
 ### COVID-19 Named Entity Recognition
 
 Oct. 2020 ~ Dec. 2020
