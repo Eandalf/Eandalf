@@ -12,4 +12,8 @@ This was a course project from CSE477 Web Application Development at MSU. We uti
 
 [Link](https://webdev.cse.msu.edu/~linchi16/project1/)
 
-## WIP
+## Screen Shots
+
+![Choose Player](./assets/choose-player.png)
+
+![Game](./assets/game.png)
