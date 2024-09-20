@@ -89,6 +89,14 @@ At TECO Electric & Machinery Co., Ltd. (Taipei, Taiwan. On-site.)
 
 ## Projects
 
+### YouTube Clip Player
+
+Sep. 2024 ~
+
+A desktop app. The project aimed to solve the missing functionality of YouTube to collect clips of videos, curate playlists of clips, and a player dedicated to playing video clips. The project was built with Electron for cross-platform support and to demonstrate my skills in crafting a React.js-based app.
+
+[Repo](https://github.com/Eandalf/youtube-clip-player)
+
 ### Curators of Travel™
 
 Jan. 2021 ~ Jun. 2021
