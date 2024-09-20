@@ -12,4 +12,6 @@ This was a course project from CSE477 Web Application Development at MSU, and it
 
 [Link](https://webdev.cse.msu.edu/~linchi16/project2/)
 
-## WIP
+## Screenshots
+
+![Login](./assets/login.png)
