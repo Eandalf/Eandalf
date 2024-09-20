@@ -113,6 +113,22 @@ The project aimed to read the RGB or RGBA pixel values of the images locally. GU
 
 [Repo](https://github.com/Eandalf/pixel-inspector)
 
+### 2048 Game
+
+Nov. 2020 ~ Nov. 2020
+
+WIP...
+
+[Repo](https://github.com/Eandalf/2048_game)
+
+### Genetic Programming for a Binary Classification Problem
+
+Nov. 2020 ~ Nov. 2020
+
+This piece of work was originally created for COMP3211 Fundamentals of Artificial Intelligence Assignment1 Problem3 at HKUST in 2020 Fall. The script demonstrated how to set up a training based on the genetic programming paradigm. To perform the binary classification, the perceptron structure was set up to have weights to be tuned to fit the data. Basically, the population of this GP, genetic programming, consists of 1000 instances of perceptrons (weight vectors).
+
+[Repo](https://github.com/Eandalf/gp_bc)
+
 ### COVID-19 Named Entity Recognition
 
 Oct. 2020 ~ Dec. 2020
