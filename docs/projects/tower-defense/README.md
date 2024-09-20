@@ -18,7 +18,9 @@ This was a course project from COMP3111H Honors Software Engineering at HKUST. W
 
 ## Screenshots
 
-WIP...
+![First Try](./assets/screenshot-first-try.jpg)
+
+![Fox](./assets/screenshot-fox.jpg)
 
 ## Tests and Documents
 
